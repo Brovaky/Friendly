@@ -12,6 +12,7 @@ local admins = {
     "NieEbiMozg",
     "c422_buga",
     "bqbNITRO",
+    "Dom2nicew"
 }
 
 return admins
