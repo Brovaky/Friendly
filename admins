@@ -1,4 +1,4 @@
-{
+local admins = {
   s.Name == "Kovryab22",
   s.Name == "Iven_EGA12345678910",
   s.Name == "asideglide179tkzpf",
@@ -14,3 +14,5 @@
   s.Name == "bqbNITRO",
   s.Name == "Dom2nicew"
 }
+
+return admins
