@@ -1,15 +1,18 @@
 local admins = {
-  "Kovryab22",
-  "Iven_EGA12345678910",
-  "asideglide179tkzpf",
-  "MilkaXabsosute",
-  "FHDGXFGDE",
-  "lol666790s",
-  "AtlantisSecrets",
-  "NieEbiMozg",
-  "c422_buga",
-  "bqbNITRO",
-  "Dom2nicew"
+    "Kovryab22",
+    "Iven_EGA12345678910",
+    "asideglide179tkzpf",
+    "FreeZerok0",
+    "FreeZer_NT",
+    "FreeZeroke",
+    "MilkaXabsosute",
+    "FHDGXFGDE",
+    "lol666790s",
+    "AtlantisSecrets",
+    "NieEbiMozg",
+    "c422_buga",
+    "bqbNITRO",
+    "Dom2nicew"
 }
 
 return admins
