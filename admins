@@ -1,14 +1,24 @@
-local adm = {
-    "Kovryab22",
-    "asideglide179tkzpf",
-    "MilkaXabsosute",
-    "FHDGXFGDE",
-    "lol666790s",
-    "AtlantisSecrets",
-    "NieEbiMozg",
-    "c422_buga",
-    "bqbNITRO",
-    "Dom2nicew"
-}
-
-return adm
+return {
+        "Kovryab22",
+        "asideglide179tkzpf",
+        "Iven_EGA12345678910",
+        "FHDGXFGDE",
+        "CannibalAteU",
+        "NieEbiMozg",
+        "c422_buga",
+        "Dom2nicew",
+        "Dream70p",
+        "1jixn0",
+        "MAMY_EBAL627",
+        "Darkness123600",
+        "geroi345678",
+        "IamDolbaebik",
+        "Marakosak5",
+        "Darkness123600",
+        "Aleksey_Avoidovi4",
+        "Treqw_15",
+        "Treqw_11",
+        "Misskoshka_3865",
+        "zalypaSEB",
+        "on1yfame"
+    }
